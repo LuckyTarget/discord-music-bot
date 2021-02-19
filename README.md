@@ -4,10 +4,10 @@
 
 <u>Installation:</u>
 
-* Download Folders
-* Exctract zip
-* Open bot's folder
-* Open Config Folder, right click on bot.js and edit it with any editing program you have!
+* **Clone** the git repo
+* **Exctract** zip folder
+* **Open** bot's folder
+* **Open** **config** folder ~> right click on **bot.js** ~> edit!
 ```
 module.exports = {
     emojis: {
