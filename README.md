@@ -1,1 +1,1 @@
-# Discord-Music-Bot
+# 🚀Lucky Music Bot :)
