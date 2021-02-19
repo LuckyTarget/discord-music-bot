@@ -26,3 +26,9 @@ module.exports = {
 };
 ```
 * One the above code you should change **<U>TOKEN, PREFIX AND CUSTOM HAME PLAYING</U>**
+
+---
+
+<U>Start Bot</U>
+* `npm i`
+* `node index.js`
