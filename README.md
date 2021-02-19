@@ -1,6 +1,6 @@
 ---
 
-<p align="center">🚀Lucky Music Bot</p>
+<p align="center"><u>🚀Lucky Music Bot</b></p>
 
 ---
 
