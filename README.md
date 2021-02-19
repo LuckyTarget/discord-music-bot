@@ -1,5 +1,5 @@
 ---
-# 🚀Lucky Music Bot :)
+<p align="center">🚀Lucky Music Bot</p>
 ---
 
 <u>Installation:</u>
