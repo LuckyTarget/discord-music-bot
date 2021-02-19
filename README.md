@@ -32,3 +32,13 @@ module.exports = {
 <U>Start Bot</U>
 * `npm i`
 * `node index.js`
+
+---
+
+<p align="center">
+    <i>You can find me or contact me through these networks:</i>
+    <br/><br/>
+    <a href="https://discord.gg/sQQFSnQhdt" target="_blank">
+        <img src="https://img.shields.io/discord/793149744847257600?label=Discord%20Support%20Server&style=for-the-badge" alt="Discord" />
+    </a>
+</p>
